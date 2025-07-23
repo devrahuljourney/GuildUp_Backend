@@ -17,7 +17,7 @@ app.use(
 );
 
 // Routes
-app.use("/api/v1/emailschedular", emailschedularRoutes);
+app.use("/api/v1/emailscheduler", emailschedularRoutes);
 
 
 
